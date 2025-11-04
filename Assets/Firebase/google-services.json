@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "694520936907",
+    "firebase_url": "https://flappyscores-ac3f0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flappyscores-ac3f0",
+    "storage_bucket": "flappyscores-ac3f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694520936907:android:3b8dced42b9dbcf5bb9e4e",
+        "android_client_info": {
+          "package_name": "com.AlbjavGames.FlappyBird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCALbaNOO1aht77ktq8Fod5UcuNSLjfgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

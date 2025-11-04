@@ -1,0 +1,5 @@
+C:/Users/Alberto/Documents/AA Unity Projects/Flappy bird/.utmp/RelWithDebInfo/245q6s53/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Alberto/Documents/AA Unity Projects/Flappy bird/.utmp/RelWithDebInfo/245q6s53/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Alberto/Documents/AA Unity Projects/Flappy bird/.utmp/RelWithDebInfo/245q6s53/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/Alberto/Documents/AA Unity Projects/Flappy bird/.utmp/RelWithDebInfo/245q6s53/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/Alberto/Documents/AA Unity Projects/Flappy bird/.utmp/RelWithDebInfo/245q6s53/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

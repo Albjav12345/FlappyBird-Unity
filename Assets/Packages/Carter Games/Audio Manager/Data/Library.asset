@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b35e70643df4a4daf1e8f488bf3b7da, type: 3}
+  m_Name: Library
+  m_EditorClassIdentifier: CarterGames.AudioManager.Runtime::CarterGames.Assets.AudioManager.AudioLibrary
+  library:
+    list:
+    - key: Abstraction - Ludum Dare 38 Loops-efbb9971-00c7-41d7-b8ed-3667eaaefb4e
+      value:
+        key: Abstraction - Ludum Dare 38 Loops
+        id: Abstraction - Ludum Dare 38 Loops-efbb9971-00c7-41d7-b8ed-3667eaaefb4e
+        defaultKey: Abstraction - Ludum Dare 38 Loops-efbb9971-00c7-41d7-b8ed-3667eaaefb4e
+        value: {fileID: 8300000, guid: 15209624a99504941815b94f29d21787, type: 3}
+        path: Assets/Audios/Music/Abstraction - Ludum Dare 38 Loops.wav
+        dynamicStartTime:
+          time: 0
+          threshold: 0.0032769514
+          option: 0
+          tabPos: 0
+        showDynamicTime: 0
+    - key: an_ominous-crow-call-255173 (mp3cut.net)-5a873b49-abef-4f91-a854-faddc9143f5b
+      value:
+        key: an_ominous-crow-call-255173 (mp3cut.net)
+        id: an_ominous-crow-call-255173 (mp3cut.net)-5a873b49-abef-4f91-a854-faddc9143f5b
+        defaultKey: an_ominous-crow-call-255173 (mp3cut.net)-5a873b49-abef-4f91-a854-faddc9143f5b
+        value: {fileID: 8300000, guid: edad8eac7a37e1048925d870327077f0, type: 3}
+        path: Assets/Audios/SFX/an_ominous-crow-call-255173 (mp3cut.net).mp3
+        dynamicStartTime:
+          time: 0
+          threshold: 0
+          option: 1
+          tabPos: 0
+        showDynamicTime: 1
+    - key: an_ominous-crow-call-255173-5d0d2be8-2a0f-456e-8c76-d4a82f609cf5
+      value:
+        key: an_ominous-crow-call-255173
+        id: an_ominous-crow-call-255173-5d0d2be8-2a0f-456e-8c76-d4a82f609cf5
+        defaultKey: an_ominous-crow-call-255173-5d0d2be8-2a0f-456e-8c76-d4a82f609cf5
+        value: {fileID: 8300000, guid: a0a8c73b092694d4e99e8d482df0897c, type: 3}
+        path: Assets/Audios/SFX/an_ominous-crow-call-255173.mp3
+        dynamicStartTime:
+          time: 0.022625
+          threshold: 0.0015565932
+          option: 0
+          tabPos: 0
+        showDynamicTime: 1
+    - key: click-396530df-ed49-4e23-b9e4-b667d7cbe2e3
+      value:
+        key: click
+        id: click-396530df-ed49-4e23-b9e4-b667d7cbe2e3
+        defaultKey: click-396530df-ed49-4e23-b9e4-b667d7cbe2e3
+        value: {fileID: 8300000, guid: daaab78686cb06544a7d171b26e3113f, type: 3}
+        path: Assets/Audios/SFX/click.ogg
+        dynamicStartTime:
+          time: 0.009160997
+          threshold: 0.00064150593
+          option: 0
+          tabPos: 0
+        showDynamicTime: 0
+    - key: die-ec94e74d-e96a-4c3c-8a3a-6689589f0436
+      value:
+        key: die
+        id: die-ec94e74d-e96a-4c3c-8a3a-6689589f0436
+        defaultKey: die-ec94e74d-e96a-4c3c-8a3a-6689589f0436
+        value: {fileID: 8300000, guid: df25d263524ea2d4e971f36edf4a9367, type: 3}
+        path: Assets/Audios/SFX/die.wav
+        dynamicStartTime:
+          time: 0.3613152
+          threshold: 0.0013002257
+          option: 0
+          tabPos: 0
+        showDynamicTime: 0
+    - key: hit-aa76945d-bfbb-4e72-acee-19a702fbb396
+      value:
+        key: hit
+        id: hit-aa76945d-bfbb-4e72-acee-19a702fbb396
+        defaultKey: hit-aa76945d-bfbb-4e72-acee-19a702fbb396
+        value: {fileID: 8300000, guid: bb00301844ff1e64eafdd4e51da80742, type: 3}
+        path: Assets/Audios/SFX/hit.ogg
+        dynamicStartTime:
+          time: 0
+          threshold: 0.0062924973
+          option: 0
+          tabPos: 0
+        showDynamicTime: 0
+    - key: jump-82e9fd85-2113-4a91-84d9-55771c405405
+      value:
+        key: jump
+        id: jump-82e9fd85-2113-4a91-84d9-55771c405405
+        defaultKey: jump-82e9fd85-2113-4a91-84d9-55771c405405
+        value: {fileID: 8300000, guid: e94ec72ee4c54f8419de991021c0eaed, type: 3}
+        path: Assets/Audios/SFX/jump.ogg
+        dynamicStartTime:
+          time: 0.019501133
+          threshold: 0.0029507962
+          option: 0
+          tabPos: 0
+        showDynamicTime: 0
+    - key: point-2de5c126-3601-441b-80c7-d4082b383480
+      value:
+        key: point
+        id: point-2de5c126-3601-441b-80c7-d4082b383480
+        defaultKey: point-2de5c126-3601-441b-80c7-d4082b383480
+        value: {fileID: 8300000, guid: 619a535306a8d0144b2c283d565e5694, type: 3}
+        path: Assets/Audios/SFX/point.wav
+        dynamicStartTime:
+          time: 0.12443311
+          threshold: 0.0028255666
+          option: 0
+          tabPos: 0
+        showDynamicTime: 0
+    - key: pop-8cca60ac-ea4f-4b19-840e-16c2f0dda9d4
+      value:
+        key: pop
+        id: pop-8cca60ac-ea4f-4b19-840e-16c2f0dda9d4
+        defaultKey: pop-8cca60ac-ea4f-4b19-840e-16c2f0dda9d4
+        value: {fileID: 8300000, guid: 2ac8eaef1e67eda4c89ac920654a4d6e, type: 3}
+        path: Assets/Audios/SFX/pop.mp3
+        dynamicStartTime:
+          time: 0.2278458
+          threshold: 0.0016813694
+          option: 0
+          tabPos: 0
+        showDynamicTime: 0
+    - key: score-eae1a73c-63ab-485a-a907-2c6d2ae4e254
+      value:
+        key: score
+        id: score-eae1a73c-63ab-485a-a907-2c6d2ae4e254
+        defaultKey: score-eae1a73c-63ab-485a-a907-2c6d2ae4e254
+        value: {fileID: 8300000, guid: 4d390bdc5854fa448bc5c3586916330e, type: 3}
+        path: Assets/Audios/SFX/score.ogg
+        dynamicStartTime:
+          time: 0.017981859
+          threshold: 0.001130613
+          option: 0
+          tabPos: 0
+        showDynamicTime: 0
+    - key: swoosh-87157e10-4f5d-466a-8c83-a130a288ecaa
+      value:
+        key: swoosh
+        id: swoosh-87157e10-4f5d-466a-8c83-a130a288ecaa
+        defaultKey: swoosh-87157e10-4f5d-466a-8c83-a130a288ecaa
+        value: {fileID: 8300000, guid: 989989e8d1c140f44b2317b68cebed0f, type: 3}
+        path: Assets/Audios/SFX/swoosh.wav
+        dynamicStartTime:
+          time: 0.04866213
+          threshold: 0.0018908024
+          option: 0
+          tabPos: 0
+        showDynamicTime: 0
+  libraryReverseLookup:
+    list:
+    - key: Abstraction - Ludum Dare 38 Loops
+      value: Abstraction - Ludum Dare 38 Loops-efbb9971-00c7-41d7-b8ed-3667eaaefb4e
+    - key: click
+      value: click-396530df-ed49-4e23-b9e4-b667d7cbe2e3
+    - key: die
+      value: die-ec94e74d-e96a-4c3c-8a3a-6689589f0436
+    - key: hit
+      value: hit-aa76945d-bfbb-4e72-acee-19a702fbb396
+    - key: jump
+      value: jump-82e9fd85-2113-4a91-84d9-55771c405405
+    - key: point
+      value: point-2de5c126-3601-441b-80c7-d4082b383480
+    - key: pop
+      value: pop-8cca60ac-ea4f-4b19-840e-16c2f0dda9d4
+    - key: score
+      value: score-eae1a73c-63ab-485a-a907-2c6d2ae4e254
+    - key: swoosh
+      value: swoosh-87157e10-4f5d-466a-8c83-a130a288ecaa
+    - key: an_ominous-crow-call-255173
+      value: an_ominous-crow-call-255173-5d0d2be8-2a0f-456e-8c76-d4a82f609cf5
+    - key: an_ominous-crow-call-255173 (mp3cut.net)
+      value: an_ominous-crow-call-255173 (mp3cut.net)-5a873b49-abef-4f91-a854-faddc9143f5b
+  groups:
+    list: []
+  groupsReverseLookup:
+    list: []
+  mixers:
+    list: []
+  mixersReverseLookup:
+    list: []
+  tracks:
+    list:
+    - key: 2dd6b0b0-fca3-41bc-80df-c1be9a000793
+      value:
+        listKey: soundTrack
+        tracks:
+        - clipId: Abstraction - Ludum Dare 38 Loops-efbb9971-00c7-41d7-b8ed-3667eaaefb4e
+          startTime: 0
+          endTime: 67.2
+        trackListType: 0
+        loop: 1
+        shuffle: 0
+        useCustomTransitions: 1
+        startingTransition: 1
+        startingTransitionDuration: 2
+        switchTrackTransition: 0
+        switchingTransitionDuration: 0
+  tracksReverseLookup:
+    list:
+    - key: soundTrack
+      value: 2dd6b0b0-fca3-41bc-80df-c1be9a000793
